@@ -1,0 +1,5 @@
+First activate the Virtual Environment 
+
+venv\Scripts\activate.bat
+
+Then Run python manage.py runserver
